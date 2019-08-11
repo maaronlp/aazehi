@@ -1360,8 +1360,8 @@ class MainWindow(tkinter.Frame):
             "   many contributors.\n" +
             " * TkInter, the standard Python interface to the Tk GUI toolkit written by Steen\n" +
             "   Lumholt and Guido van Rossum.\n" +
-            " * cryptography, a packages that provides recipes and primitives tto Python\n" + 
-            "   by many authors that you can check in the URL\n" +
+            " * cryptography, a packages that provides recipes and primitives to Python\n" +
+            "   users and it was developed by many authors that you can check in the URL\n" +
             "   https://github.com/pyca/cryptography/blob/master/AUTHORS.rst\n" +
             " * PyCryptodome 3.8.2, a self-contained Python package of low-level cryptographic\n" +
             "   primitives, developed by many authors that you can check in the URL\n" +
